@@ -7,6 +7,8 @@ Anonymous Encrypted Chat over TOR network
 * run with command python3 Anon_Crypt_chat.py
 * [1]create server (installs tor service and creates a hidden serice which will use for chat server)
 * [2]load server (opens 3 tabs,1 - runs python server,2 - runs tor server,3 - the main menu from which we enter in the chat).
+* You need to enter the port fot the python serveer first(first tab),second run the tor server(second tab),then enter the chat
+* from the last tab.
 * [3]enter chat (enter in the chat when you are done with the server).
 * 
 * You can run the server on a remote host and connect with you and your friends from your hosts there is a separe server file.
