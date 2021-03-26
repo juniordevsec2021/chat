@@ -6,7 +6,7 @@ Anonymous Encrypted Chat over TOR network
 * python modules: pip install cython socks cryptography errno select.
 * The cython module is to allow you to run the binary source .so file from the python .py file.
 * I made this to protect my source code to be stollen or modified!
-* run with command python3 Anon_Crypt_chat.py
+* run with command python3 Anon_Crypt_Chat.py
 * [1]create server (installs tor service and creates a hidden serice which will use for chat server)
 * [2]load server (opens 3 tabs,1 - runs python server,2 - runs tor server,3 - the main menu from which we enter in the chat).
 * You need to enter the port fot the python serveer first(first tab),second run the tor server(second tab),then enter the chat
