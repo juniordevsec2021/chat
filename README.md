@@ -24,3 +24,5 @@ Anonymous Encrypted Chat over TOR network
 ![alt text5](5.png)
 
 ![alt text6](6.png)
+
+### Do not use the program for any illegal activities!I'm not responsible for what you do!The choice is yours!
